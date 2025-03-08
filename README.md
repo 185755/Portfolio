@@ -13,7 +13,7 @@ _A brief introduction about yourself, your skills, and your interests._
 
 ### 1. Project Name
 **Description:**  
-_A short description of what this project does and why it’s useful._
+I won’t hide the fact that this repository was created as a summary of all my projects to present them better. At the beginning of my studies, I worked on many projects, but I didn’t use a GitHub repository while creating them. It was only later that I started using it, but the projects didn’t look very presentable. To fill in the gaps and improve my GitHub skills, I created this repository to gather all my projects in one place for better presentation.
 
 **Technologies Used:**  
 - _List the technologies, frameworks, or languages used (e.g., Python, React, Node.js)_
@@ -24,7 +24,7 @@ _A short description of what this project does and why it’s useful._
 - 🔹 _Feature 3_  
 
 **Repository:**  
-[GitHub Link](#)  
+[GitHub Link](https://github.com/185755/Portfolio)  
 
 ---
 
@@ -46,11 +46,10 @@ _A short description of what this project does and why it’s useful._
 ---
 
 ## 📬 Contact  
-Feel free to reach out!  
 
-- **GitHub:** [Your GitHub](#)  
-- **LinkedIn:** [Your LinkedIn](#)  
-- **Email:** your.email@example.com  
+- **GitHub:** [https://github.com/185755](#)  
+- **LinkedIn:** [https://www.linkedin.com/in/maciej-dziewit-898a402b0/](#)  
+- **Email:** maciek.dziewit@gmail.com  
 
 ---
 
