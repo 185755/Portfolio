@@ -12,7 +12,7 @@ _
 
 ## 📌 Projects
 
-### 1. Project Name
+### 1. Project Name: AI System for Verifying Soft Skills
 **Description:**  
 My flagship project is a research project titled: "AI System for Verifying Soft Skills Based on Generative Artificial Intelligence for Task Creation in ACDC Sessions." The goal of this project was to develop a program that would generate tasks for AC/DC sessions.
 
