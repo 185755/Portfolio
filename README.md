@@ -55,7 +55,7 @@ _A short description of what this project does and why it’s useful._
 
 ## 📬 Contact  and social media
 
-- **GitHub :octocat: 	➡️:** [https://github.com/185755]  
+- **GitHub: :octocat: 	➡️:** [https://github.com/185755]  
 - **LinkedIn: ☑️ 		➡️** [https://www.linkedin.com/in/maciej-dziewit-898a402b0/]  
 - **Email: ✉️ 			➡️** maciek.dziewit@gmail.com  
 - **Instagram 📸 		➡️:** [https://www.instagram.com/maciekdziewit/]  
