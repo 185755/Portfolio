@@ -5,8 +5,8 @@ Welcome to my project portfolio! This README provides an overview of my work, in
 ---
 
 ## 🚀 About Me
-_I won’t hide the fact that this repository was created as a summary of all my projects to present them better. At the beginning of my studies, I worked on many projects, but I didn’t use a GitHub repository while creating them. It was only later that I started using it, but the projects didn’t look very presentable. To fill in the gaps and improve my GitHub skills, I created this repository to gather all my projects in one place for better presentation.
-_
+I won’t hide the fact that this repository was created as a summary of all my projects to present them better. At the beginning of my studies, I worked on many projects, but I didn’t use a GitHub repository while creating them. It was only later that I started using it, but the projects didn’t look very presentable. To fill in the gaps and improve my GitHub skills, I created this repository to gather all my projects in one place for better presentation.
+
 
 ---
 
