@@ -49,7 +49,7 @@ _A short description of what this project does and why it’s useful._
 - 🔹 _Feature 3_  
 
 **Repository:**  
-[GitHub Link](https://github.com/185755/AI-System-for-Verifying-Soft-Skills)  
+[https://github.com/185755/AI-System-for-Verifying-Soft-Skills]  
 
 ---
 
