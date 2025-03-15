@@ -32,7 +32,7 @@ The project's objective was to compare whether a program using pre-trained LLMs 
 - 🔹 _Feature 3_  - The text files were then used as part of the prompt for the model, which subsequently generated the final evaluation of the candidate.
 
 **Repository:**  
-[GitHub Link](#)  
+[https://github.com/185755/AI-System-for-Verifying-Soft-Skills](#)  
 
 ---
 
@@ -49,7 +49,7 @@ _A short description of what this project does and why it’s useful._
 - 🔹 _Feature 3_  
 
 **Repository:**  
-[https://github.com/185755/AI-System-for-Verifying-Soft-Skills]  
+[]  
 
 ---
 
