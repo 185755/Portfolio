@@ -36,9 +36,9 @@ https://github.com/185755/AI-System-for-Verifying-Soft-Skills
 
 ---
 
-### 2. Project Name
+### 2. Project Name: Application of machine learning methods to support of learning process (Zastosowanie metod uczenia maszynowego w problemach wspomagających proces nauki)
 **Description:**  
-_A short description of what this project does and why it’s useful._
+My second most important project will be my master theasis that i am currently writing. It is tilted: 
 
 **Technologies Used:**  
 - _List the technologies, frameworks, or languages used._
@@ -53,6 +53,124 @@ _A short description of what this project does and why it’s useful._
 
 ---
 
+### 3. Project Name: Weather Data Analytics for Disaster Management
+**Description:**  
+
+
+**Technologies Used:**  
+- _List the technologies, frameworks, or languages used._
+
+**Key Features:**  
+- 🔹 _Feature 1_  
+- 🔹 _Feature 2_  
+- 🔹 _Feature 3_  
+
+**Repository:**  
+https://github.com/jwszol-classes/ims2025-185755  
+
+---
+
+### 4. Project Name: 
+**Description:**  
+My second most important project will be my master theasis that i am currently writing. It is tilted: 
+
+**Technologies Used:**  
+- _List the technologies, frameworks, or languages used._
+
+**Key Features:**  
+- 🔹 _Feature 1_  
+- 🔹 _Feature 2_  
+- 🔹 _Feature 3_  
+
+**Repository:**  
+[]  
+
+---
+
+### 5. Project Name: 
+**Description:**  
+My second most important project will be my master theasis that i am currently writing. It is tilted: 
+
+**Technologies Used:**  
+- _List the technologies, frameworks, or languages used._
+
+**Key Features:**  
+- 🔹 _Feature 1_  
+- 🔹 _Feature 2_  
+- 🔹 _Feature 3_  
+
+**Repository:**  
+[]  
+
+---
+
+### 6. Project Name: 
+**Description:**  
+My second most important project will be my master theasis that i am currently writing. It is tilted: 
+
+**Technologies Used:**  
+- _List the technologies, frameworks, or languages used._
+
+**Key Features:**  
+- 🔹 _Feature 1_  
+- 🔹 _Feature 2_  
+- 🔹 _Feature 3_  
+
+**Repository:**  
+[]  
+
+---
+
+### 7. Project Name: 
+**Description:**  
+My second most important project will be my master theasis that i am currently writing. It is tilted: 
+
+**Technologies Used:**  
+- _List the technologies, frameworks, or languages used._
+
+**Key Features:**  
+- 🔹 _Feature 1_  
+- 🔹 _Feature 2_  
+- 🔹 _Feature 3_  
+
+**Repository:**  
+[]  
+
+---
+
+### 8. Project Name: 
+**Description:**  
+My second most important project will be my master theasis that i am currently writing. It is tilted: 
+
+**Technologies Used:**  
+- _List the technologies, frameworks, or languages used._
+
+**Key Features:**  
+- 🔹 _Feature 1_  
+- 🔹 _Feature 2_  
+- 🔹 _Feature 3_  
+
+**Repository:**  
+[]  
+
+---
+
+### 9. Project Name: 
+**Description:**  
+My second most important project will be my master theasis that i am currently writing. It is tilted: 
+
+**Technologies Used:**  
+- _List the technologies, frameworks, or languages used._
+
+**Key Features:**  
+- 🔹 _Feature 1_  
+- 🔹 _Feature 2_  
+- 🔹 _Feature 3_  
+
+**Repository:**  
+[]  
+
+---
 ## 📬 Contact  and social media
 
 - **GitHub: :octocat: 	➡️:** [https://github.com/185755]  
