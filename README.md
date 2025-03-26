@@ -72,16 +72,16 @@ https://github.com/jwszol-classes/ims2025-185755
 
 ### 4. Project Name: Impulse Noise Removal from Music Recordings
 
-** Description **
+**Description:**
 My second most important project is my master’s thesis, which is focused on impulse noise removal from music recordings. It utilizes an autoregressive (AR) model combined with the Exponentially Weighted Least Squares (EW-LS) algorithm for efficient parameter estimation. The goal is to remove impulse noise while maintaining the integrity of the audio signal.
 
-** Technologies Used **
+**Technologies Used:**
 - MATLAB(for computational implementation)
 - Autoregressive (AR) Model
 - Exponentially Weighted Least Squares (EW-LS) Algorithm
 - Linear Interpolation
 
-** Key Features **
+**Key Features:**
 - 🔹 Impulse Noise Removal: Effectively detects and removes impulse noise from audio signals.  
 - 🔹 AR Model for Signal Dynamics: Uses a 4th-order AR model to represent the signal's local dynamics.  
 - 🔹 Real-Time Processing: Adaptable for real-time audio processing with parameter estimation and noise detection.
