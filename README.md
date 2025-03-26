@@ -55,15 +55,19 @@ My second most important project will be my master theasis that i am currently w
 
 ### 3. Project Name: Weather Data Analytics for Disaster Management
 **Description:**  
-
+This project analyzes real-time and historical weather data to detect anomalies and predict potential disasters such as heatwaves. It uses **Apache Kafka** for real-time data streaming, **Apache Spark** for distributed data processing, and **AWS EMR** for scalable infrastructure. The system aims to provide insights for disaster management, including heatwave detection and predictive modeling.
 
 **Technologies Used:**  
-- _List the technologies, frameworks, or languages used._
+- **Apache Kafka**: Real-time data streaming.  
+- **Apache Spark**: Batch and stream processing (MLlib integration attempted).  
+- **AWS EMR**: Hosting Spark clusters and S3 for storage.  
+- **Python**: Programming language.  
+- **Open-Meteo API**: Source for real-time and historical weather data.  
 
 **Key Features:**  
-- 🔹 _Feature 1_  
-- 🔹 _Feature 2_  
-- 🔹 _Feature 3_  
+- 🔹 Real-time weather streaming using Kafka.  
+- 🔹 Heatwave detection and analysis based on historical temperature data.  
+- 🔹 Integration with AWS EMR for scalable data processing and storage.  
 
 **Repository:**  
 https://github.com/jwszol-classes/ims2025-185755  
