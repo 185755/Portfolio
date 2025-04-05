@@ -96,9 +96,9 @@ https://github.com/185755/NoiseCleanse
 
 ---
 
-### 5. Project Name: 
+### 5. Project Name: (Template)
 **Description:**  
-My second most important project will be my master theasis that i am currently writing. It is tilted: 
+
 
 **Technologies Used:**  
 - _List the technologies, frameworks, or languages used._
@@ -113,73 +113,7 @@ My second most important project will be my master theasis that i am currently w
 
 ---
 
-### 6. Project Name: 
-**Description:**  
-My second most important project will be my master theasis that i am currently writing. It is tilted: 
 
-**Technologies Used:**  
-- _List the technologies, frameworks, or languages used._
-
-**Key Features:**  
-- 🔹 _Feature 1_  
-- 🔹 _Feature 2_  
-- 🔹 _Feature 3_  
-
-**Repository:**  
-[]  
-
----
-
-### 7. Project Name: 
-**Description:**  
-My second most important project will be my master theasis that i am currently writing. It is tilted: 
-
-**Technologies Used:**  
-- _List the technologies, frameworks, or languages used._
-
-**Key Features:**  
-- 🔹 _Feature 1_  
-- 🔹 _Feature 2_  
-- 🔹 _Feature 3_  
-
-**Repository:**  
-[]  
-
----
-
-### 8. Project Name: 
-**Description:**  
-My second most important project will be my master theasis that i am currently writing. It is tilted: 
-
-**Technologies Used:**  
-- _List the technologies, frameworks, or languages used._
-
-**Key Features:**  
-- 🔹 _Feature 1_  
-- 🔹 _Feature 2_  
-- 🔹 _Feature 3_  
-
-**Repository:**  
-[]  
-
----
-
-### 9. Project Name: 
-**Description:**  
-My second most important project will be my master theasis that i am currently writing. It is tilted: 
-
-**Technologies Used:**  
-- _List the technologies, frameworks, or languages used._
-
-**Key Features:**  
-- 🔹 _Feature 1_  
-- 🔹 _Feature 2_  
-- 🔹 _Feature 3_  
-
-**Repository:**  
-[]  
-
----
 ## 📬 Contact  and social media
 
 - **GitHub: :octocat: 	➡️:** [https://github.com/185755]  
