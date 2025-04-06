@@ -96,7 +96,31 @@ https://github.com/185755/NoiseCleanse
 
 ---
 
-### 5. Project Name: (Template)
+
+### 5. Project Name: Shape Shooter game
+
+## Description  
+Shape Shooter is a simple 2D game developed in C++ using the SFML library.  
+The player controls a flying object that moves around the screen and shoots at falling shapes.  
+Each destroyed shape grants a point, while missed or colliding shapes reduce the player's health.  
+The game ends when all lives are lost.
+
+## Technologies Used  
+- C++  
+- SFML (Simple and Fast Multimedia Library)  
+- Visual Studio (optional)
+
+## Key Features  
+- 🔹 Real-time player movement  
+- 🔹 Randomly generated falling shapes  
+- 🔹 Shooting mechanic with score tracking  
+- 🔹 Life/health system and game over state  
+- 🔹 Simple 2D graphics using SFML
+
+## Repository  
+https://github.com/185755/Informatyka-2021
+
+### 6. Project Name: (Template)
 **Description:**  
 
 
